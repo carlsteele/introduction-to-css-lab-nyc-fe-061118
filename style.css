@@ -24,6 +24,9 @@ width: 700px;
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
+  font-size: 22px;
+  
+
   /* Your code here! */
   
   color:red;
